@@ -1,0 +1,54 @@
+body{
+    background-image: url(images/board.jpg);
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+   
+}
+h1{
+    color: #e2d408;
+    text-align: center;
+    font-size: 4rem;
+     margin-top: 70px;
+}
+
+p{
+    text-align: center;
+    font-size: 3rem;
+    padding-top: 11px;
+   
+    color: #fff;
+}
+#msg{
+    font-style: italic;
+}
+#card{
+    margin-bottom: 10px;
+}
+#sum{
+    margin-bottom: 15px;
+}
+#game-btn{
+    color: #015f32;
+    font-size: 3rem;
+    background-color: goldenrod;
+    margin-left: 39%;
+    padding: 7px ;
+    font-weight: bold;
+    border: none;
+    border-radius: 12px;
+    margin-bottom:20px ;
+
+    
+}
+#newCard-btn{
+    color: #015f32;
+    font-size: 3.3rem;
+    background-color: goldenrod;
+    margin-left: 39%;
+    padding: 7px ;
+    padding:0px 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 12px;
+    margin-top: -12px;}
